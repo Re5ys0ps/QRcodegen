@@ -2,7 +2,7 @@
 
 ## Follow the steps
 
-###" pip install qrcode " or https://pypi.org/project/qrcode/
+" pip install qrcode " or https://pypi.org/project/qrcode/
 
 Paste the link in the python file
 
