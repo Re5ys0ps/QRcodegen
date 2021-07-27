@@ -1,6 +1,6 @@
-# QRcodegen
+# QR-Code Generator
 
-Follow the steps
+## Follow the steps
 
 # " pip install qrcode " or https://pypi.org/project/qrcode/
 
